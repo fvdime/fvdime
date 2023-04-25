@@ -6,7 +6,6 @@
 
 - - How to reach me **fadime.dogrulj@gmail.com**
 
-- - Fun fact **外国語を学ぶのが大好きです！**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
