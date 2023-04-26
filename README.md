@@ -2,7 +2,7 @@
 
 - - I’m currently working on **HDFF**
 
-- - I’m currently learning **React.js and Typescript**
+- - I’m currently learning **React and Typescript**
 
 - - How to reach me **fadime.dogrulj@gmail.com**
 
