@@ -4,7 +4,7 @@
 
 - - I’m currently learning **React and Typescript**
 
-- - How to reach me **fadime.dogrulj@gmail.com**
+- - How to reach me **fadime.dogruln@gmail.com**
 
 
 <h3 align="left">Connect with me:</h3>
