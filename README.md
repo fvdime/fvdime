@@ -1,4 +1,5 @@
 <h1 align="center">Hi! I'm Fadime</h1>
+
 - - I’m currently learning **MERN Stack**
 
 - - How to reach me **fadime.dogrulj@gmail.com**
